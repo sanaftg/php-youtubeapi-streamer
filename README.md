@@ -6,6 +6,13 @@
 
 ※GoogleAPIライブラリが必要
 
+通常の手法よりクォータが大幅に削減できます。
+
+![image](https://github.com/sanaftg/php-youtubeapi-streamer/assets/25891107/bb7f26a0-7b0a-4dd6-89a5-ea94d798e00c)
+
+↑5分毎に実行した結果
+
+
 # 参考記事
 ### 手法
 https://qiita.com/as_a_baller/items/fc6dfc05fefb0da3b3a0
